@@ -1,5 +1,3 @@
-# Medical-Chatbot
-
 # End-to-end-Medical-Chatbot-Generative-AI
 
 
